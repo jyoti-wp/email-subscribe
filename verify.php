@@ -11,6 +11,8 @@ $user_email = isset($_GET['email']) ? $_GET['email'] : '';
 $action = 'verify.php?email=' . $user_email;
 $verification_code = isset($_POST['verification_code']) ? $_POST['verification_code'] : '';
 
+ig
+
 ?>
 
 <!DOCTYPE html>
